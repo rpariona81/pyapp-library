@@ -1,0 +1,8 @@
+
+.codegpt
+myenv/
+venv/
+.env
+env/
+__pycache__/
+.codegpt
